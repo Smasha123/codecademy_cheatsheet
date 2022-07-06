@@ -1,0 +1,42 @@
+html {
+    background: url(../resources/hack_cover.jpg);
+}
+
+h1 {
+color: rgb(140, 140, 140);
+background-color: rgba(227, 231, 247, 0);
+text-transform: uppercase;
+text-align: center;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-style: italic;
+    color: rgb(140, 140, 140);
+    text-align: center;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.initial_notes {
+    background-color: rgba(34, 95, 169, 0.85);
+}
+
+thead {
+    background-color: rgba(34, 95, 169, 0.85);
+    font-weight: bold;
+}
+
+tbody {
+    background-color: rgba(56, 108, 141, 0.8);
+}
+
+table, th, td {
+    border: 1px solid black;
+    margin: 0 auto;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+span {
+    font-family: "Lucida Console", Courier, monospace;
+    background-color:rgba(140, 140, 140, 0.801);
+}
